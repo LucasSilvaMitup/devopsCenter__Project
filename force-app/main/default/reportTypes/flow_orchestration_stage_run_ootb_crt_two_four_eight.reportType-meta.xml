@@ -4,8 +4,8 @@
     <baseObject>FlowOrchestrationStageInstance</baseObject>
     <category>other</category>
     <deployed>true</deployed>
-    <description>Find out which orchestration stage runs were created and the current status of each run.</description>
-    <label>Orchestration Stage Runs Spring &apos;24</label>
+    <description>Descubra quais execuções de estágio da orquestração foram criadas e o status atual de cada execução.</description>
+    <label>Execuções de estágio da orquestração Spring &apos;24</label>
     <sections>
         <columns>
             <checkedByDefault>true</checkedByDefault>
@@ -52,6 +52,6 @@
             <field>Id</field>
             <table>FlowOrchestrationStageInstance</table>
         </columns>
-        <masterLabel>Orchestration Stage Runs</masterLabel>
+        <masterLabel>Execuções do estágio de orquestração</masterLabel>
     </sections>
 </ReportType>

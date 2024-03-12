@@ -139,5 +139,5 @@
         <searchResultsAdditionalFields>EstimatedDuration</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>DurationType</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>Private</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
 </CustomObject>

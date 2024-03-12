@@ -7,8 +7,6 @@
     <label>Commerce</label>
     <navType>Console</navType>
     <tabs>standard-home</tabs>
-    <tabs>standard-PromotionsWorkspace</tabs>
-    <tabs>standard-ProductCatalog</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
@@ -23,12 +21,6 @@
         </mappings>
         <mappings>
             <tab>standard-Order</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-ProductCatalog</tab>
-        </mappings>
-        <mappings>
-            <tab>standard-PromotionsWorkspace</tab>
         </mappings>
         <mappings>
             <tab>standard-home</tab>
