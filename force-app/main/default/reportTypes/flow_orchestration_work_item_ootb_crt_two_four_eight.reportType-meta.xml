@@ -4,12 +4,12 @@
     <baseObject>FlowOrchestrationStepInstance</baseObject>
     <category>other</category>
     <deployed>true</deployed>
-    <description>Find out which orchestration work items were created, who&apos;s the associated assignee, and what&apos;s the current status of each work item.</description>
+    <description>Descubra quais itens de trabalho da orquestração foram criados, quem é o cessionário associado e qual é o status atual de cada item de trabalho.</description>
     <join>
         <outerJoin>false</outerJoin>
         <relationship>FlowOrchestrationWorkItems</relationship>
     </join>
-    <label>Orchestration Work Items Spring &apos;24</label>
+    <label>Item de trabalho da orquestração Spring &apos;24</label>
     <sections>
         <columns>
             <checkedByDefault>true</checkedByDefault>
@@ -38,13 +38,13 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Assigned User</displayNameOverride>
+            <displayNameOverride>AtribuídoUser</displayNameOverride>
             <field>Assignee.User</field>
             <table>FlowOrchestrationStepInstance.FlowOrchestrationWorkItems</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Assigned Group or Queue</displayNameOverride>
+            <displayNameOverride>AtribuídoGrupo ou fila</displayNameOverride>
             <field>Assignee.Group</field>
             <table>FlowOrchestrationStepInstance.FlowOrchestrationWorkItems</table>
         </columns>
@@ -58,27 +58,27 @@
             <field>Id</field>
             <table>FlowOrchestrationStepInstance.FlowOrchestrationWorkItems</table>
         </columns>
-        <masterLabel>Orchestration Work Items</masterLabel>
+        <masterLabel>Itens do trabalho de orquestração</masterLabel>
     </sections>
     <sections>
         <columns>
             <checkedByDefault>true</checkedByDefault>
-            <displayNameOverride>Orchestration Step Run: Name</displayNameOverride>
+            <displayNameOverride>Execução de etapa da orquestração:Name</displayNameOverride>
             <field>Name</field>
             <table>FlowOrchestrationStepInstance</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Orchestration Step Run: Label</displayNameOverride>
+            <displayNameOverride>Execução de etapa da orquestração:Label</displayNameOverride>
             <field>Label</field>
             <table>FlowOrchestrationStepInstance</table>
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Orchestration Step Run: Status</displayNameOverride>
+            <displayNameOverride>Execução de etapa da orquestração:Status</displayNameOverride>
             <field>Status</field>
             <table>FlowOrchestrationStepInstance</table>
         </columns>
-        <masterLabel>Orchestration Step Runs</masterLabel>
+        <masterLabel>Execuções da etapa de orquestração</masterLabel>
     </sections>
 </ReportType>
