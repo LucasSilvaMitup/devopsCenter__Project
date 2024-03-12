@@ -159,7 +159,6 @@
         <lookupPhoneDialogsAdditionalFields>Status</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ArrivalWindowStartTime</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ArrivalWindowEndTime</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>Phone</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>ParentRecord</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ParentRecordType</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Status</searchResultsAdditionalFields>

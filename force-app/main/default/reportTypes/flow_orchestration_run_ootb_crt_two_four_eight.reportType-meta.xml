@@ -4,8 +4,8 @@
     <baseObject>FlowOrchestrationInstance</baseObject>
     <category>other</category>
     <deployed>true</deployed>
-    <description>Find out which orchestration runs were created.</description>
-    <label>Orchestration Runs Spring &apos;24</label>
+    <description>Descubra quais execuções da orquestração foram criadas.</description>
+    <label>Execuções da orquestração Spring &apos;24</label>
     <sections>
         <columns>
             <checkedByDefault>true</checkedByDefault>
@@ -47,6 +47,6 @@
             <field>Id</field>
             <table>FlowOrchestrationInstance</table>
         </columns>
-        <masterLabel>Orchestration Runs</masterLabel>
+        <masterLabel>Execuções de orquestração</masterLabel>
     </sections>
 </ReportType>

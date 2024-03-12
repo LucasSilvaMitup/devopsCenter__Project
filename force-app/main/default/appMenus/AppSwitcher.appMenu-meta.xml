@@ -41,27 +41,7 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Insights</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningSalesConsole</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningService</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__LightningSales</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningInstrumentation</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__SalesforceCMS</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -69,35 +49,19 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__QueueManagement</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__DataManager</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__RevenueCloudConsole</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__Commerce</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningScheduler</name>
-        <type>CustomApplication</type>
+        <name>CPQIntegrationUserApp</name>
+        <type>ConnectedApp</type>
     </appMenuItems>
     <appMenuItems>
         <name>standard__LightningBolt</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>DEVHUB_qo1oqgcfoh94e3ilj1ol</name>
-        <type>ConnectedApp</type>
+        <name>standard__SalesforceCMS</name>
+        <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>DevOps_Center</name>
-        <type>ConnectedApp</type>
+        <name>standard__Commerce</name>
+        <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>
